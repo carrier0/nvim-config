@@ -1,1 +1,3 @@
-"nvim files" 
+# Neovim
+
+nascent nvim config
